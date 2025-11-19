@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    // GitHub Pages에 배포 시 사용자/레포 경로로 바꿔주세요 (예: "yourname.github.io/your-repo")
+    // GitHub Pages에 배포 시 사용자/레포 경로로 바꿔주세요 (예: "yourname.github.io/your-repo") test
     baseUrl: "Samdasoo1076.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
