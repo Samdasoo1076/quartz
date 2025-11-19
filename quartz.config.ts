@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     // GitHub Pages에 배포 시 사용자/레포 경로로 바꿔주세요 (예: "yourname.github.io/your-repo")
-    baseUrl: "yourname.github.io/your-repo",
+    baseUrl: "Samdasoo1076.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
